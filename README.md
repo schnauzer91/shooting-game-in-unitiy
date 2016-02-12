@@ -2,7 +2,7 @@
 This program is a shooting game using Unity.
 
 # image
-![shooting game](http://i.imgur.com/nAEM0B6.gifv)
+![shooting game](http://imgur.com/nAEM0B6)
 
 
 # Using...
